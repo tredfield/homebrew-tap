@@ -4,7 +4,7 @@ class GoSlalom < Formula
   homepage "https://github.com/tredfield/go-slalom"
   url "https://github.com/tredfield/go-slalom/releases/download/v0.0.1/go-slalom_0.0.1_Darwin_x86_64.tar.gz"
   version "0.0.1"
-  sha256 "9cba2611fc43c9339e6a0d35d7bd4bc74d20db562cca88fef975fafe81a97828"
+  sha256 "97ec82f8aece75c3f23c7f3d9e1febeb474b8a77d0ae31f488255dbd6d2946b0"
 
   def install
     bin.install "go-slalom"
